@@ -26,5 +26,8 @@ Stellar Structure
 .................
 
 `Lane Emden Equation <https://github.com/jaadt7/Lane_Emden>`_.
+This notebook explores solutions to the Lane-Emden equation and applications to
+physical polytropes.
+`Open this notebook in Google Colab <https://colab.research.google.com/github/jaadt7/Lane_Emden/blob/master/Lane-Emden.ipynb>`_.
 
 
