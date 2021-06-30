@@ -7,4 +7,5 @@ Project resources
    :maxdepth: 1
 
    jupyter_notebooks
+   docker_images
 
