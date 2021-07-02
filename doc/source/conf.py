@@ -30,7 +30,7 @@ project = about["__title__"]
 copyright = about["__copyright__"]
 author = about["__author__"]
 
-version = release = about["__version__"]
+#version = release = about["__version__"]
 
 # -- General configuration ---------------------------------------------------
 

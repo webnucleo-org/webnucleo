@@ -1,11 +1,11 @@
 Changelog
 =========
 
-All notable changes to this project will be documented in this file.  This
-project adheres to `Semantic Versioning <http://semver.org/spec/v2.0.0.html>`_.
+All notable changes are recorded here and labeled by the date of the
+commit to the main branch of the repository for the site.
 
-Version 0.1.0 (2021-06-30)
---------------------------
+2021-07-02
+----------
 
 New:
 
