@@ -14,7 +14,13 @@ This option does require you to have a
 Nuclear Astrophysics.
 ---------------------
 
-Nuclear astrophysics.
+`create_nuclide_xml <https://github.com/mbradle/create_nuclide_xml>`_.
+This notebook allows you to create nuclide data in the Webnucleo Xml
+format.
+
+`create_reaction_xml <https://github.com/mbradle/create_reaction_xml>`_.
+This notebook allows you to create reaction data in the Webnucleo Xml
+format.
 
 Nucleosynthesis
 ...............
