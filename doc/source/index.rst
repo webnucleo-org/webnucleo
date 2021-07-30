@@ -12,5 +12,4 @@ Contents
    :includehidden:
 
    readme
-   changelog
    resources
