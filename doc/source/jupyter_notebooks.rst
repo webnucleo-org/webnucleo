@@ -31,6 +31,9 @@ This notebook explores NRLEE nucleosynthesis.
 `(n,gamma)-(gamma,n) equilibrium <https://github.com/mengkel/ng-gn-abundances>`_.
 (n,gamma)-(gamma,n) equilibrium is an important phase of r-process nucleosynthesis.  This notebook studies that phase in some detail.
 
+`ww95 <https://github.com/mbradle/ww95>`_.
+This notebook explores the Woosley and Weaver (1995) stellar yields from
+massive stars.
 
 Stellar Structure
 ------------------
