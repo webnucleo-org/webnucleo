@@ -45,3 +45,6 @@ own data.
 `Create reaction XML <https://github.com/mbradle/create_reaction_xml>`_.
 This notebook allows users to create webnucleo reaction data XML from their
 own data.
+
+`Plot reaction XML <https://github.com/mbradle/plot_reaction_xml>`_.
+This notebook allows users to plot webnucleo XML reaction data.
