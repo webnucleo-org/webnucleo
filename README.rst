@@ -9,8 +9,8 @@ Authors
 
 - The webnucleo team.
 
-Contribute
-----------
+Issues or Help
+--------------
 
 - Issue Tracker: `<https://github.com/webnucleo-org/webnucleo/issues/>`_
 - Source Code: `<https://github.com/webnucleo-org/webnucleo/>`_

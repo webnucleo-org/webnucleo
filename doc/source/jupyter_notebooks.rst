@@ -11,6 +11,8 @@ To do so, click on the Open in Colab badge on the given notebook page.
 This option does require you to have a
 `Google Account <https://www.google.com/account/about/>`_.
 
+Many of the notebooks run on `Binder <https://mybinder.org>`_ as well.
+
 Nuclear Astrophysics.
 ---------------------
 
@@ -38,13 +40,10 @@ physical polytropes.
 Webnucleo XML
 -------------
 
-`Create nuclide XML <https://github.com/mbradle/create_nuclide_xml>`_.
-This notebook allows users to create webnucleo nuclear data XML from their
-own data.
-
-`Create reaction XML <https://github.com/mbradle/create_reaction_xml>`_.
-This notebook allows users to create webnucleo reaction data XML from their
-own data.
+`Webnucleo XML <https://github.com/mbradle/webnucleo_xml>`_.  This project
+includes a set of
+notebooks that allow users to convert their own data into XML files appropriate
+for Webnucleo projects.
 
 `Plot reaction XML <https://github.com/mbradle/plot_reaction_xml>`_.
 This notebook allows users to plot webnucleo XML reaction data.

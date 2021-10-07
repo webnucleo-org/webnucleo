@@ -13,3 +13,4 @@ Contents
 
    readme
    resources
+   contribute
