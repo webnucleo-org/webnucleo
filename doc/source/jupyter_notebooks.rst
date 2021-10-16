@@ -19,6 +19,12 @@ Nuclear Astrophysics.
 Nucleosynthesis
 ...............
 
+`Mainline Stellar Nucleosynthesis <https://github.com/mbradle/mainline-nucleosynthesis>`_.
+This notebook explores mainline stellar nucleosynthesis nucleosynthesis in simple constant temperature and density models.
+
+`Simple s-Process Nucleosynthesis <https://github.com/mbradle/simple_s_process>`_.
+This notebook explores s-process nucleosynthesis in constant neutron-number density models.
+
 `NRLEE Nucleosynthesis <https://github.com/mbradle/NRLEE-Nucleosynthesis>`_.
 This notebook explores NRLEE nucleosynthesis.
 
