@@ -42,6 +42,10 @@ Stellar Structure
 This notebook explores solutions to the Lane-Emden equation and applications to
 physical polytropes.
 
+`Newton-Raphson <https://github.com/jaadt7/Newton_Raphson>`_.
+This notebook demonstrates the use of the Newton-Raphson technique to solve
+coupled differential equations that occur, for example, in solving for
+models of stellar structure.
 
 Webnucleo XML
 -------------
