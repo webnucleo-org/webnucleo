@@ -35,6 +35,10 @@ This notebook explores NRLEE nucleosynthesis.
 This notebook explores the Woosley and Weaver (1995) stellar yields from
 massive stars.
 
+`Isomer Intuition <https://github.com/jaadt7/isomer_intuition>`_.
+This notebook explores the evolution of a long-lived nuclear isomer interacting
+with its ground state in temperature varying environments.
+
 Stellar Structure
 ------------------
 
