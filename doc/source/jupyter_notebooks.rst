@@ -61,3 +61,7 @@ for Webnucleo projects.
 
 `Plot reaction XML <https://github.com/mbradle/plot_reaction_xml>`_.
 This notebook allows users to plot webnucleo XML reaction data.
+
+`Trim nuclear network XML by solar <https://github.com/mbradle/trim_network_by_solar>`_.
+This notebook allows users to trim a webnucleo nuclear reaction network relative to the naturally-occurring isotopes.
+
