@@ -65,3 +65,8 @@ This notebook allows users to plot webnucleo XML reaction data.
 `Trim nuclear network XML by solar <https://github.com/mbradle/trim_network_by_solar>`_.
 This notebook allows users to trim a webnucleo nuclear reaction network relative to the naturally-occurring isotopes.
 
+`Neutron-capture cross sections
+<https://github.com/mbradle/Neutron_Capture_Cross_Sections>`_.
+This notebook allows users to compute neutron-capture cross sections from Webnucleo XML
+network data for selected sets of nuclei at a given temperature.
+
