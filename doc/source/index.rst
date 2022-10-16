@@ -14,3 +14,4 @@ Contents
    readme
    resources
    contribute
+   acknowledgments
