@@ -20,3 +20,7 @@ Python scripts
 `merge_xml.py <https://osf.io/46hvm/>`_. 
 This python script merges nuclide and reaction XML to form network XML or network
 and zone data XML to form libnucnet XML.
+
+`create_exp_zone_xml.py <https://osf.io/tp3nc/>`_. 
+This python script creates zone XML file with exponentially declining temperature
+and density and user-specified uniform abundances.
