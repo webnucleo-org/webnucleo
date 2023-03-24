@@ -9,6 +9,7 @@ Project resources
    jupyter_notebooks
    docker_images
    codes
+   python_packages
    scripts
    miscellany
 
