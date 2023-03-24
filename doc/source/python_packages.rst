@@ -1,7 +1,7 @@
 .. _python_packages:
 
-Python Packages:
-================
+Python Packages
+===============
 
 `lvlspy <https://lvlspy.readthedocs.io>`_. 
 This python package allows the user to store, retrieve, and compute data about
