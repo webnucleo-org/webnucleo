@@ -1,7 +1,7 @@
 .. _scripts:
 
-Scripts.
-========
+Scripts
+=======
 
 Here are some scripts:
 

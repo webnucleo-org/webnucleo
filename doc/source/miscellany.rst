@@ -1,7 +1,7 @@
 .. _miscellany:
 
-Miscellany.
-===========
+Miscellany
+==========
 
 Here are links to some external web sites we like:
 

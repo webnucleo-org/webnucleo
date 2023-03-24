@@ -1,7 +1,7 @@
 .. _docker_images:
 
-Docker Images.
-==============
+Docker Images
+=============
 
 Here are some Docker images.
 
