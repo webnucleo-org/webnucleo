@@ -1,26 +1,17 @@
-.. _scripts:
-
 Scripts
 =======
 
-Here are some scripts:
+Here are some scripts useful for Webnucleo application.
 
 Shell scripts
 -------------
 
-`make_movie_from_pdfs.sh <https://osf.io/mvwu2/>`_. 
-This script converts pdf files in a directory into a movie.
-
-`make_pdfs_from_dot.sh <https://osf.io/f6p2q/>`_. 
-This script converts previously created webnucleo graphviz dot files into pdf files.
+We have a number of `shell scripts <https://osf.io/yh5vs/wiki/home/>`_ useful
+for handling Webnucleo files.
 
 Python scripts
 --------------
 
-`merge_xml.py <https://osf.io/46hvm/>`_. 
-This python script merges nuclide and reaction XML to form network XML or network
-and zone data XML to form libnucnet XML.
+We have a number of `python scripts <https://osf.io/ws4z2/wiki/home/>`_ that 
+are useful for handling Webnucleo files.
 
-`create_exp_zone_xml.py <https://osf.io/tp3nc/>`_. 
-This python script creates zone XML file with exponentially declining temperature
-and density and user-specified uniform abundances.
