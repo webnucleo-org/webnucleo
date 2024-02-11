@@ -70,3 +70,9 @@ This notebook allows users to trim a webnucleo nuclear reaction network relative
 This notebook allows users to compute neutron-capture cross sections from Webnucleo XML
 network data for selected sets of nuclei at a given temperature.
 
+Cosmochemistry
+--------------
+
+`rsp_mix <https://github.com/mbradle/rsp_mix>`_.
+This notebook computes isotopic anomalies arising from different mixtures of r-, s-, and p-process contributions and can compare those computed anomalies to meteoritic data.
+
