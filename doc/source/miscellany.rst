@@ -12,7 +12,7 @@ This site provides haiku for each element.
 Video of balloon ascending to the stratosphere and then
 rapidly descending.
 
-`CFL-41 <https://fas.org/publication/stellar_evolution/>`_.
+`CRL-41 <https://fas.org/publication/stellar_evolution/>`_.
 This site links to Al Cameron's famous lecture notes on
 Stellar Evolution, Nuclear Astrophysics, and Nucleogenesis.
 
