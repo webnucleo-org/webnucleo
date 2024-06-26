@@ -3,10 +3,19 @@
 Python Packages
 ===============
 
+`grrproc <https://grrproc.readthedocs.io>`_. 
+This python package allows the user to compute recursive r-process
+abundance relations (the GrRproc relations) and apply them to solutions
+of r-process networks.
+
 `lvlspy <https://lvlspy.readthedocs.io>`_. 
 This python package allows the user to store, retrieve, and compute data about
 quantum level systems.  The input and output interact with
 `liblvls <https://sourceforge.net/projects/liblvls>`_ codes.
+
+`wneq <https://wneq.readthedocs.io>`_. 
+This python package allows the user to compute nuclear equilibria relevant
+for nucleosynthesis.
 
 `wnnet <https://wnnet.readthedocs.io>`_. 
 This python package allows the user to handle webnucleo reaction networks.
