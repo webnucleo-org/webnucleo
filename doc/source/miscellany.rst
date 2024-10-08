@@ -21,3 +21,6 @@ Don Clayton <https://www.youtube.com/watch?v=NaQmO-iQpJU>`_.
 In this interview from 1977, Don Clayton discussed the age of the
 Solar System.
 
+`OSF webinar <https://www.youtube.com/watch?v=kd9NWfJQY7c&list=PLChfyH8TVDGmadoly93RhdDlRx5dN9mqc&index=1>`_.
+The inaugural webinar on enabling research innovation with
+`OSF <https://osf.io>`_.
