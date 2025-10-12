@@ -24,3 +24,6 @@ Solar System.
 `OSF webinar <https://www.youtube.com/watch?v=kd9NWfJQY7c&list=PLChfyH8TVDGmadoly93RhdDlRx5dN9mqc&index=1>`_.
 The inaugural webinar on enabling research innovation with
 `OSF <https://osf.io>`_.
+
+`Cosmic Pi Podcast <https://www.youtube.com/watch?v=3VuLkjxjjlE>`_.
+University of North Dakota podcast with Webnucleo alum Jaad Tannous.
