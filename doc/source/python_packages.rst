@@ -23,6 +23,10 @@ This python package allows the user to handle webnucleo reaction networks.
 `wnpoly <https://wnpoly.readthedocs.io>`_. 
 This python package allows the user to compute polynomials useful for webnucleo codes.
 
+`wnstatmech <https://wnstatmech.readthedocs.io>`_. 
+This python package allows the user to compute the statistical mechanics of
+fermions and bosons.
+
 `wnutils <https://wnutils.readthedocs.io>`_. 
 This python package allows the user to read, graph, and animate
 `libnucnet <https://sourceforge.net/projects/libnucnet>`_ input and output
